@@ -2,7 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Swen20003_Object_Orient_Software_Development" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Swen20003_Object_Orient_Software_Development/pikp-project-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Swen20003_Object_Orient_Software_Development/pikp-workshops" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/krispi1229" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lpn" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pik1229" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pro2-kangpi" vcs="Git" />
   </component>
 </project>
